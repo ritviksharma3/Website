@@ -1,0 +1,33 @@
+body {
+    overflow: auto;  
+    padding-top: 65px; 
+    position: relative; 
+}
+
+.cont{
+    background: linear-gradient(to bottom left,#6DD5FA,#FFFFFF );
+    display: flex;
+    padding: 10px 0;
+    overflow: auto;
+}
+
+.content{
+    align-content: center;
+    margin-top: 0px;
+    padding-left: 200px;
+}
+
+
+.text-box{
+    align-content: center;
+    padding-left: 195px;
+    margin: 5px; 
+}
+
+.email-brand{
+    margin-top: 10px;
+    padding-left: 200px;
+}
+
+
+

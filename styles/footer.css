@@ -1,0 +1,35 @@
+body {
+    overflow: auto;
+    padding-bottom: 0px; 
+    position: relative;
+    min-height: 100%;
+    min-height: 100vh;   
+}
+
+footer.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: #0A072C;
+    clear: both;
+  }
+  
+.social a {
+    display: inline-block;
+    font-size: 28px;
+    color:#ffffff;
+}
+
+.navbar .social {
+    display: flex;
+    justify-content: center;
+    transition: all 0.4s ease-in;
+  }
+.navbar p{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+}
+
+
+  

@@ -1,0 +1,25 @@
+body {
+    position: relative;   
+}
+
+.details{
+    background: linear-gradient(to right, #6DD5FA,#FFFFFF );
+    /* 3EF078 and 8f94fb */
+    /* #fdbb2d, #22c1c3 */
+    display: flex;
+    padding: 40px 0;
+    overflow: auto;
+    
+}
+
+.about{  
+    width: 950px;
+    border: 10px solid #3f2b96;
+    padding: 70px;
+    margin: 100px;
+}
+
+.about-me {
+    margin-left: 310px;
+}
+

@@ -1,0 +1,23 @@
+.tech {
+    background: linear-gradient(to bottom right,#6DD5FA,#FFFFFF );
+    /* 3EF078 and 8f94fb */
+    /* #fdbb2d, #22c1c3 */
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    position: relative;
+    overflow: hidden;
+    
+}
+
+.info-tech{
+    padding-top: 150px;
+    padding: 100px;
+    margin: 30px;
+    color: black;
+}
+
+.tech h3 {
+    font-size: 1.5rem;
+    font-weight: 450;
+}

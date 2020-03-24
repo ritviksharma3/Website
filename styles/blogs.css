@@ -1,0 +1,40 @@
+html {
+    position: relative;
+    min-height: 100%;
+  }
+html body {
+    padding-bottom: 0px;
+  }
+
+.banner{
+  overflow: auto;
+  padding-top: 100px;
+  background: linear-gradient(to bottom left,#ef32d9,#89fffd );
+}
+.banner h1{
+  padding: 30px;
+  height: 15%;
+  text-align: center;
+  color: black;
+}
+
+.banner h2{
+  text-align: center;
+}
+
+.newsletter{
+  align-content: center;
+  position : relative;
+  padding: 10px;
+  background: linear-gradient(to top right,#ef32d9,#89fffd );
+}
+
+.newsletterf{
+    bottom : 10%;
+    margin : 20px;
+    text-align: center;
+    color : #000000 ;
+    font-size: 25px;
+    padding: 30px;
+}
+  

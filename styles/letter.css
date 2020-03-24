@@ -1,0 +1,14 @@
+.letter{
+    position : relative;
+    margin-top: 0;
+    background-color: #21093C;
+    padding:10px;
+        
+}
+.letterf{
+    bottom : 10%;
+    margin : 20px;
+    text-align: center;
+    color : #ffffff ;
+    font-size: 25px;   
+}
